@@ -7,3 +7,11 @@
 ##      (b)用"+="重写代码"myInt = myInt +3".
 ##
 ##
+
+myInt = 5
+myInt = myInt + 3
+print myInt
+
+myInt = 5
+myInt += 3
+print myInt
